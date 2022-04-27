@@ -1,0 +1,47 @@
+WORK LOG COMP 593 - APOD FINAL PROJECT
+--------------------------------------
+--------------------------------------
+ENTRY ONE: April 16th, 2022 || Started on the "create_image_database" function
+- Completed fuction 
+
+ENTRY TWO: April 17th, 2022 || Started on the "get_apod_info" function.
+- Trouble with sending the proper GET request
+
+ENTRY THREE April 18th, 2022 || Continued on "get_apod_info" function.
+- Resolved with the GET troubles 
+- Came across a problem with the return of the dictionary. 
+
+ENTRY FOUR April 20th, 2022 || Continued on "get_apod_info" function, started with downloading the image function
+& was able to complete it with the hash value now able to be present. 
+- Was able to solve the dictionary problem
+- Gathered the URL of my birth date successfully
+- Was able to get a has value of the image
+- Gathered the byte size with the len() built in tool
+
+ENTRY FIVE April 21st, 2022 || Fixed errors and continued with the script
+- Finished the get_apod_info function
+- Fixed the sha_256 value
+
+ENTRY SIX April 22nd, 2022 || Completed some program fixes to some functions
+- Fixed get_apod_info 
+- Fixed download_apod_image
+
+ENTRY SEVEN April 23rd, 2022 || Fixed an issue with the SHA256 Object
+- Fixed SHA256 object to properly get the value of it
+- Fixed the printing of the length of SHA256
+
+ENTRY EIGHT April 25th, 2022 || Continued on specific Functions
+- Started and Finished the print_apod_info function
+- Started the function checking if the image is already in the database
+
+ENTRY NINE April 26th, 2022 || Contiued solving not working functions & started unfinished functions
+- Started Add image to database 
+- Fixed the image path function
+- Started & completed the set_desktop_background function  
+- Fixed image_already_in_db function
+- Added Comments 
+- Fixed get_apod_info function
+
+ENTRY TEN April 27th, 2022 || Completed Script
+- Added Comments to the script about their functionality
+- Completed Script 
